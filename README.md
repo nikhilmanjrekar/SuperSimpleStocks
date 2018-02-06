@@ -14,3 +14,4 @@ It records trades to a list and uses them to calculate various factors. Please c
 3) There is no coding done around BUY or SELL indicators to check the stock quantity.
 4) All the data is in memory so trades are recorded till the time program is running.
 5) I have considered all the factors as BigDecimal to hold higher and accurate prcesions.
+6) SuperSimpleStocks.java has a main method to start execution.
